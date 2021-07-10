@@ -2,6 +2,7 @@ package com.epam.training.tria;
 
 import java.util.Scanner;
 
+//Is triangle exist, or triangle rectangular or is it equilateral?
 public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
